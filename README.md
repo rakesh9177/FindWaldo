@@ -8,4 +8,4 @@ App can be deployed using gradio
 Instruction to get started with gradio app:
 
 1. pip install -r requirements.txt
-2. In terminal run 'gradio <location>'
+2. In terminal run 'gradio waldo_app.py'
