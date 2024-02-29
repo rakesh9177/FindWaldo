@@ -3,7 +3,7 @@
 The repository contains two methods FFT and Convolution for template matching. 
 It is experimented on finding waldo images
 
-App can be deployed using gradio
+App can be deployed locally using gradio
 
 Instruction to get started with gradio app:
 
